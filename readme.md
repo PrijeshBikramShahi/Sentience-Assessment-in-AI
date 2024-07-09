@@ -15,6 +15,11 @@ Clone the repository:
 ```bash
 git clone https://github.com/PrijeshBikramShahi/Sentience-Assessment-in-AI.git
 ```
+Navigate to the directory:
+
+```bash
+cd Sentience-Assessment-in-AI
+```
 Run the fuzzy logic simulation:
 
 Open the Python script sentience_level_fuzzy.py and execute it. Ensure you have Python and the necessary libraries installed.
@@ -28,23 +33,3 @@ Output:
 
 Sentience Level: Ranges from 0 to 100, indicating the estimated sentience level based on the fuzzy logic rules.
 
-## Example
-```bash
-import numpy as np
-import skfuzzy as fuzz
-from skfuzzy import control as ctrl
-
-# Define Antecedents and Consequent as in the code snippet
-
-# Define fuzzy membership functions
-
-# Define rules for fuzzy logic
-
-# Create control system and simulation
-
-# Set input values
-
-# Compute and view the output
-
-sentience_level.view(sim=sentience_simulation)
-```
