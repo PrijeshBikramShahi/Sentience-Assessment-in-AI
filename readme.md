@@ -13,7 +13,7 @@ Make sure you have scikit-fuzzy installed:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
+git clone https://github.com/PrijeshBikramShahi/Sentience-Assessment-in-AI.git
 ```
 Run the fuzzy logic simulation:
 
