@@ -6,30 +6,31 @@ This repository contains Python code that implements a fuzzy logic system using 
 
 Make sure you have scikit-fuzzy installed:
 
-```bash
+```powershell
 !pip install scikit-fuzzy
 ```
 ## Usage
 Clone the repository:
 
-```bash
+```powershell
 git clone https://github.com/PrijeshBikramShahi/Sentience-Assessment-in-AI.git
 ```
-Navigate to the directory:
+### Navigate to the directory:
 
-```bash
+```powershell
 cd Sentience-Assessment-in-AI
 ```
-Run the fuzzy logic simulation:
+### Run the fuzzy logic simulation:
 
 Open the Python script sentience_level_fuzzy.py and execute it. Ensure you have Python and the necessary libraries installed.
 
-Input Variables:
+### Input Variables:
 
 Behavior Complexity: Ranges from 0 to 10, defining the complexity of behavior.
 Human Interaction Effectiveness: Ranges from 0 to 10, indicating how effective interactions with humans are.
 Learning Adaptation: Ranges from 0 to 10, representing the adaptability and learning capability.
-Output:
+
+### Output:
 
 Sentience Level: Ranges from 0 to 100, indicating the estimated sentience level based on the fuzzy logic rules.
 
